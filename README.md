@@ -1,6 +1,6 @@
 ## Hi there,I'm Chris Mwanya 👋
 Trainer & Fullstack Developper
-- 🔭 I’m currently trainer and Fullstack Developer at [Kadea Academy](https://kadea.academy)
+🔭 I’m currently trainer and Fullstack Developer at [Kadea Academy](https://kadea.academy)
 
 <!--
 **ChrisMwanya/ChrisMwanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
